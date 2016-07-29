@@ -1,2 +1,1 @@
 add_lunch_combo omni_fl7008-userdebug
-add_lunch_combo omni_fl7008-eng

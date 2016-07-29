@@ -21,8 +21,8 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/lyf/fl7008/device.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_NAME := full_fl7008
 PRODUCT_DEVICE := fl7008
+PRODUCT_NAME := fl7008
 PRODUCT_BRAND := LYF
-PRODUCT_MANUFACTURER := LFY
 PRODUCT_MODEL := FL7008
+PRODUCT_MANUFACTURER := LYF

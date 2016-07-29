@@ -1,7 +1,7 @@
-# TWRP tree for LYF LF7008 Tab
+# TWRP device tree for LYF FL7008
 
-To build TWRP:
---------------
+To build recovery:
+------------------
 
 
     . build/envsetup.sh

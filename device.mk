@@ -14,5 +14,9 @@
 # limitations under the License.
 #
 
+PRODUCT_AAPT_CONFIG := normal hdpi xhdpi
+PRODUCT_AAPT_PREF_CONFIG := hdpi
+
 PRODUCT_COPY_FILES += \
     device/lyf/fl7008/kernel:kernel
+
